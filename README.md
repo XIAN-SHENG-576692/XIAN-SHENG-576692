@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi I'm **XIAN-SHENG-576692** 👋
+
+### 🏆 Github Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=XIAN-SHENG-576692&column=10&theme=default)
+
+### 🔥 Github Streak
+
+![Streak](https://streak-stats.demolab.com?user=XIAN-SHENG-576692)
 
 <!--
 **XIAN-SHENG-576692/XIAN-SHENG-576692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
