@@ -1,5 +1,13 @@
 ## Hi I'm **XIAN-SHENG-576692** 👋
 
+### 📊 Github Stats
+
+![Stats](https://github-readme-stats-seven-black-76.vercel.app/api?username=XIAN-SHENG-576692&show_icons=true)
+
+### 📑 Github Top Languages
+
+![Top Languages](https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=XIAN-SHENG-576692&langs_count=20&layout=compact)
+
 ### 🏆 Github Trophy
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=XIAN-SHENG-576692&column=10&theme=default)
